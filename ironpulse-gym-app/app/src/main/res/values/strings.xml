@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">IronPulse Gym</string>
+
+    <!-- Login -->
+    <string name="login_title">IronPulse Gym</string>
+    <string name="login_subtitle">Member Login</string>
+    <string name="hint_member_id">Member ID (username)</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_enter_member_area">Enter Member Area</string>
+    <string name="link_join_gym">New here? Join the gym</string>
+    <string name="err_member_not_found">Member ID not found. Please join the gym.</string>
+    <string name="err_incorrect_password">Incorrect password. Try again.</string>
+
+    <!-- Register -->
+    <string name="register_title">Join IronPulse Gym</string>
+    <string name="register_subtitle">Create your member profile to access training plans and member content.</string>
+    <string name="hint_full_name">Full name</string>
+    <string name="label_gender">Select your gender</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_non_binary">Non-binary</string>
+    <string name="gender_other">Other</string>
+    <string name="hint_other_gender">Type your gender</string>
+    <string name="hint_year">Year of birth (e.g. 2001)</string>
+    <string name="hint_choose_member_id">Choose a Member ID (username)</string>
+    <string name="hint_create_password">Create password</string>
+    <string name="hint_reenter_password">Re-enter password</string>
+    <string name="btn_create_membership">Create Membership</string>
+
+    <string name="msg_select_gender">Select your gender.</string>
+    <string name="msg_passwords_no_match">Passwords do not match.</string>
+    <string name="msg_member_taken">Member ID already taken. Choose another.</string>
+    <string name="msg_register_success">Membership created successfully! You can now log in.</string>
+
+    <!-- Welcome -->
+    <string name="welcome_title">Member Dashboard</string>
+    <string name="welcome_subtitle">Your membership details</string>
+    <string name="btn_logout">Log out</string>
+    <string name="status_active">Status: Active Member</string>
+    <string name="tip_text">Tip: Consistency beats intensity. Keep showing up!</string>
+</resources>
